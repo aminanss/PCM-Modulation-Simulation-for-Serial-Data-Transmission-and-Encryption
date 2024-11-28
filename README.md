@@ -1,0 +1,1 @@
+In this project, I simulated Pulse Code Modulation (PCM) in MATLAB to enhance my understanding of communication systems. The simulation focused on transmitting serial data and implementing encryption techniques to secure the transmitted information. This project was conducted under the guidance of Dr. Hamid Behroozi.
